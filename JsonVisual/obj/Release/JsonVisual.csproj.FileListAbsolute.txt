@@ -1,0 +1,6 @@
+D:\git_reps\Json\JsonVisual\obj\Release\JsonVisual.csproj.AssemblyReference.cache
+D:\git_reps\Json\JsonVisual\obj\Release\JsonVisual.csproj.SuggestedBindingRedirects.cache
+D:\git_reps\Json\JsonVisual\obj\Release\JsonVisual.Form1.resources
+D:\git_reps\Json\JsonVisual\obj\Release\JsonVisual.Properties.Resources.resources
+D:\git_reps\Json\JsonVisual\obj\Release\JsonVisual.csproj.GenerateResource.cache
+D:\git_reps\Json\JsonVisual\obj\Release\JsonVisual.csproj.CoreCompileInputs.cache
